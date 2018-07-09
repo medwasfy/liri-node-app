@@ -28,12 +28,12 @@ switch(liriArg) {
     case "movie-this": movieThis(); break;
     case "do-what-it-says": doWhatItSays(); break;
     // Instructions displayed in terminal to the user
-    default: console.log("\r\n" +"Try typing one of the following commands after 'node liri.js' : " +"\r\n"+
+    default: console.log("\r\n" +"Type one of the following commands after 'node liri.js' : " +"\r\n"+
         "1. my-tweets 'any twitter name' " +"\r\n"+
         "2. spotify-this-song 'any song name' "+"\r\n"+
         "3. movie-this 'any movie name' "+"\r\n"+
         "4. do-what-it-says."+"\r\n"+
-        "Be sure to put the movie or song name in quotation marks if it's more than one word.");
+        "If more than one word, put all in quotation marks!");
 };
 // ---------------------------------------------------------------------------------------------------------------
 // Functions
