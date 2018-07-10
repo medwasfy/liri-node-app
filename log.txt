@@ -1,0 +1,48 @@
+@BootcampFiles: Houston, Texas: This Tiny Company
+This small team of data scientists has written an algorithm that is turning the $… https://t.co/hLKtcQFqAy
+Mon Jul 09 20:30:07 +0000 2018
+================================================================================
+@BootcampFiles: Father, toddler son shot dead in Georgia; mother falls into ravine while fleeing attacker, officials say
+Mon Jul 09 20:29:38 +0000 2018
+================================================================================
+@BootcampFiles: tweet tweet twat :) :) :)
+Sun Jul 08 19:19:38 +0000 2018
+================================================================================
+spotify-this-song,"I Want it That Way"Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fc2f23edd259406ba0800f9f8e6f2de4
+=====================================================
+Title: Frozen
+Year: 2013
+Imdb Rating: 7.5
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+Artist: Marilyn Manson
+Song: The Beautiful People
+Album: Antichrist Superstar
+Preview Url: null
+=====================================================
+Artist: Marilyn Manson
+Song: The Beautiful People
+Album: Antichrist Superstar
+Preview Url: null
+=====================================================
+Artist: Marilyn Manson
+Song: The Beautiful People
+Album: Antichrist Superstar
+Preview Url: null
+=====================================================
+Artist: *NSYNC
+Song: Bye Bye Bye
+Album: No Strings Attached
+Preview Url: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=fc2f23edd259406ba0800f9f8e6f2de4
+=====================================================
+Artist: Baha Men
+Song: Who Let The Dogs Out
+Album: Who Let The Dogs Out
+Preview Url: null
+=====================================================
