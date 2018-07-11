@@ -46,3 +46,11 @@ Song: Who Let The Dogs Out
 Album: Who Let The Dogs Out
 Preview Url: null
 =====================================================
+Title: Iron Man
+Year: 2008
+Imdb Rating: 7.9
+Rotten Tomatoes Rating: 94%
+Country: USA
+Language: English, Persian, Urdu, Arabic, Hungarian
+Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow

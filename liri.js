@@ -138,7 +138,7 @@ function movieThis(userInput){
             "Title: " + movieObject.Title+"\r\n"+
             "Year: " + movieObject.Year+"\r\n"+
             "Imdb Rating: " + movieObject.imdbRating+"\r\n"+
-            "Rotten Tomatoes Rating: " + movieObject.tomatoRating+"\r\n"+
+            "Rotten Tomatoes Rating: " + movieObject.Ratings[1].Value+"\r\n"+
             "Country: " + movieObject.Country+"\r\n"+
             "Language: " + movieObject.Language+"\r\n"+
             "Plot: " + movieObject.Plot+"\r\n"+
