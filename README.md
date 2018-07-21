@@ -44,9 +44,9 @@ spotify
 request
 
 
-* Screenshots below:
+Proof Of Product:
 
-![image](./screenshots/Screen Shot my-tweets.png)
-![image](./screenshots/Screen Shot spotify-this-song.png)
-![image](./screenshots/Screen Shot movie-this.png)
-![image](./screenshots/Screen Shot do-what-it-says.png)
+![Alt text](./screenshots/my-tweets.png)
+![Alt text](./screenshots/spotify-this-song.png)
+![Alt text](./screenshots/movie-this.png)
+![Alt text](./screenshots/do-what-it-says.png)
