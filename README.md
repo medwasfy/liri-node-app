@@ -46,4 +46,7 @@ request
 
 * Screenshots below:
 
-![Alt text](./screenshot/screenshot.png)
+![Alt text](./screenshots/Screen Shot my-tweets.png)
+![Alt text](./screenshots/Screen Shot spotify-this-song.png)
+![Alt text](./screenshots/Screen Shot movie-this.png)
+![Alt text](./screenshots/Screen Shot do-what-it-says.png)
