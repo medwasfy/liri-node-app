@@ -54,3 +54,54 @@ Country: USA
 Language: English, Persian, Urdu, Arabic, Hungarian
 Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+@BootcampFiles: Houston, Texas: This Tiny Company
+This small team of data scientists has written an algorithm that is turning the $… https://t.co/hLKtcQFqAy
+Mon Jul 09 20:30:07 +0000 2018
+================================================================================
+@BootcampFiles: Father, toddler son shot dead in Georgia; mother falls into ravine while fleeing attacker, officials say
+Mon Jul 09 20:29:38 +0000 2018
+================================================================================
+@BootcampFiles: tweet tweet twat :) :) :)
+Sun Jul 08 19:19:38 +0000 2018
+================================================================================
+Artist: The Jackson 5
+Song: I Want You Back
+Album: Greatest Hits
+Preview Url: null
+=====================================================
+Artist: Pusha T
+Song: Come Back Baby
+Album: DAYTONA
+Preview Url: null
+=====================================================
+Artist: Sir Mix-A-Lot
+Song: Baby Got Back
+Album: Jackass The Movie (The Official Soundtrack)
+Preview Url: null
+=====================================================
+Artist: Darren Knight
+Song: Baby Got Back (feat. Darren Knight)
+Album: Never Gets Old
+Preview Url: https://p.scdn.co/mp3-preview/edeec87ae55828fb8777ef08264e4826c1ca95dd?cid=fc2f23edd259406ba0800f9f8e6f2de4
+=====================================================
+Title: Gladiator
+Year: 2000
+Imdb Rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Imdb Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+spotify-this-song,"I Want it That Way"Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fc2f23edd259406ba0800f9f8e6f2de4
+=====================================================
